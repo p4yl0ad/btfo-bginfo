@@ -1,0 +1,1 @@
+Bginfo64.exe working.bgi /timer:0 /nolicprompt
